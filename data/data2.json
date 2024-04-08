@@ -1,0 +1,244 @@
+{
+    "musics": {
+        "0": {
+            "artist_name": "Oceanic Vibes",
+            "track_name": "Dreams Time",
+            "file_path": "/audio/0.wav"
+        },
+        "2": {
+            "artist_name": "Lunar Wild",
+            "track_name": "Summer's End",
+            "file_path": "/audio/2.wav"
+        },
+        "4": {
+            "artist_name": "Vibrant Strings",
+            "track_name": "Spring Moonlight",
+            "file_path": "/audio/4.wav"
+        },
+        "5": {
+            "artist_name": "Wild Stellar",
+            "track_name": "Lost in the Echo",
+            "file_path": "/audio/5.wav"
+        },
+        "6": {
+            "artist_name": "Harmonic Dreams",
+            "track_name": "Fading Sunsets",
+            "file_path": "/audio/6.wav"
+        },
+        "7": {
+            "artist_name": "Vibrant Echoes",
+            "track_name": "Echoes in",
+            "file_path": "/audio/7.wav"
+        },
+        "8": {
+            "artist_name": "Sky Dreamscape",
+            "track_name": "Lost Tomorrow",
+            "file_path": "/audio/8.wav"
+        },
+        "9": {
+            "artist_name": "Aurora Borealis",
+            "track_name": "in Summer's",
+            "file_path": "/audio/9.wav"
+        },
+        "13": {
+            "artist_name": "Echoes Neon",
+            "track_name": "Sunsets Shadows",
+            "file_path": "/audio/13.wav"
+        },
+        "21": {
+            "artist_name": "of Dusk",
+            "track_name": "Sunsets End",
+            "file_path": "/audio/21.wav"
+        },
+        "23": {
+            "artist_name": "Strings Aurora",
+            "track_name": "Visions of Spring",
+            "file_path": "/audio/23.wav"
+        },
+        "24": {
+            "artist_name": "Phoenix Echoes",
+            "track_name": "Flames Through",
+            "file_path": "/audio/24.wav"
+        },
+        "27": {
+            "artist_name": "Echoes of Jupiter",
+            "track_name": "Twilight Journey",
+            "file_path": "/audio/27.wav"
+        },
+        "30": {
+            "artist_name": "Vibrant of",
+            "track_name": "Memories with",
+            "file_path": "/audio/30.wav"
+        },
+        "36": {
+            "artist_name": "Sapphire Nights",
+            "track_name": "Autumn Whispers",
+            "file_path": "/audio/36.wav"
+        },
+        "38": {
+            "artist_name": "Dreamscape Melody",
+            "track_name": "Summer's Autumn",
+            "file_path": "/audio/38.wav"
+        },
+        "41": {
+            "artist_name": "Dusk Echoes",
+            "track_name": "Light the",
+            "file_path": "/audio/41.wav"
+        },
+        "42": {
+            "artist_name": "The Wild Suns",
+            "track_name": "Memories Wind",
+            "file_path": "/audio/42.wav"
+        },
+        "45": {
+            "artist_name": "Echoes Drift",
+            "track_name": "Through Twilight",
+            "file_path": "/audio/45.wav"
+        },
+        "46": {
+            "artist_name": "Eternal Dusk",
+            "track_name": "Mystic Echoes",
+            "file_path": "/audio/46.wav"
+        },
+        "49": {
+            "artist_name": "Borealis Vibrant",
+            "track_name": "Winter's the",
+            "file_path": "/audio/49.wav"
+        },
+        "50": {
+            "artist_name": "Mystic Shadows",
+            "track_name": "from Silence",
+            "file_path": "/audio/50.wav"
+        },
+        "51": {
+            "artist_name": "Eternal Reverie",
+            "track_name": "Tomorrow Journey",
+            "file_path": "/audio/51.wav"
+        },
+        "52": {
+            "artist_name": "Sky Lunar",
+            "track_name": "Serenade of the Seas",
+            "file_path": "/audio/52.wav"
+        },
+        "54": {
+            "artist_name": "Melody Dusk",
+            "track_name": "Through the",
+            "file_path": "/audio/54.wav"
+        },
+        "55": {
+            "artist_name": "Sky Echoes",
+            "track_name": "of Dancing",
+            "file_path": "/audio/55.wav"
+        },
+        "57": {
+            "artist_name": "Sky Velvet",
+            "track_name": "Moonlight Summer's",
+            "file_path": "/audio/57.wav"
+        },
+        "58": {
+            "artist_name": "Sapphire Sky",
+            "track_name": "Mystic Rains",
+            "file_path": "/audio/58.wav"
+        },
+        "59": {
+            "artist_name": "Drift Dreams",
+            "track_name": "Autumn Rains",
+            "file_path": "/audio/59.wav"
+        },
+        "61": {
+            "artist_name": "Golden Reverie",
+            "track_name": "Embrace of",
+            "file_path": "/audio/61.wav"
+        },
+        "62": {
+            "artist_name": "Phoenix Celestial",
+            "track_name": "of with",
+            "file_path": "/audio/62.wav"
+        },
+        "64": {
+            "artist_name": "Crimson Strings",
+            "track_name": "Autumn Rhythms",
+            "file_path": "/audio/64.wav"
+        },
+        "65": {
+            "artist_name": "Dreamscape Strings",
+            "track_name": "of Mystic",
+            "file_path": "/audio/65.wav"
+        },
+        "66": {
+            "artist_name": "Oceanic Symphony",
+            "track_name": "Sunsets Visions",
+            "file_path": "/audio/66.wav"
+        },
+        "70": {
+            "artist_name": "Golden Waves",
+            "track_name": "Echoes from Beyond",
+            "file_path": "/audio/70.wav"
+        },
+        "71": {
+            "artist_name": "The Golden",
+            "track_name": "of Sunsets",
+            "file_path": "/audio/71.wav"
+        },
+        "75": {
+            "artist_name": "Suns Drift",
+            "track_name": "in Sunsets",
+            "file_path": "/audio/75.wav"
+        },
+        "76": {
+            "artist_name": "Drift Twilight",
+            "track_name": "in Journey",
+            "file_path": "/audio/76.wav"
+        },
+        "77": {
+            "artist_name": "Lunar Echoes",
+            "track_name": "Journey Visions",
+            "file_path": "/audio/77.wav"
+        },
+        "84": {
+            "artist_name": "Velvet Moonlight",
+            "track_name": "Mystic Autumn",
+            "file_path": "/audio/84.wav"
+        },
+        "85": {
+            "artist_name": "Rising Sapphire",
+            "track_name": "Echo of",
+            "file_path": "/audio/85.wav"
+        },
+        "86": {
+            "artist_name": "Echoes Celestial",
+            "track_name": "Harmony in Silence",
+            "file_path": "/audio/86.wav"
+        },
+        "88": {
+            "artist_name": "Serenade Mystic",
+            "track_name": "Twilight Memories",
+            "file_path": "/audio/88.wav"
+        },
+        "90": {
+            "artist_name": "Vibes Phoenix",
+            "track_name": "Journey Winter's",
+            "file_path": "/audio/90.wav"
+        },
+        "91": {
+            "artist_name": "Echoes Moonlight",
+            "track_name": "Harmony Eternal",
+            "file_path": "/audio/91.wav"
+        },
+        "95": {
+            "artist_name": "Reverie Echoes",
+            "track_name": "of Eternal",
+            "file_path": "/audio/95.wav"
+        },
+        "97": {
+            "artist_name": "Waves Oceanic",
+            "track_name": "Light End",
+            "file_path": "/audio/97.wav"
+        },
+        "98": {
+            "artist_name": "Twilight Suns",
+            "track_name": "with Autumn",
+            "file_path": "/audio/98.wav"
+        }
+    }
+}

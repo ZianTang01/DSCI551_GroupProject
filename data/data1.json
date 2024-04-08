@@ -1,0 +1,264 @@
+{
+    "musics": {
+        "1": {
+            "artist_name": "Shadows Twilight",
+            "track_name": "Sunsets the",
+            "file_path": "/audio/1.wav"
+        },
+        "3": {
+            "artist_name": "Serenade Harmonic",
+            "track_name": "Echoes the",
+            "file_path": "/audio/3.wav"
+        },
+        "10": {
+            "artist_name": "Echoes Oceanic",
+            "track_name": "Rhythms of the Night",
+            "file_path": "/audio/10.wav"
+        },
+        "11": {
+            "artist_name": "Neon Dreams",
+            "track_name": "Shadows in the Moonlight",
+            "file_path": "/audio/11.wav"
+        },
+        "12": {
+            "artist_name": "Aurora Harmonic",
+            "track_name": "the Winter's",
+            "file_path": "/audio/12.wav"
+        },
+        "14": {
+            "artist_name": "Mystic Borealis",
+            "track_name": "Rains Sunsets",
+            "file_path": "/audio/14.wav"
+        },
+        "15": {
+            "artist_name": "Crimson Phoenix",
+            "track_name": "Dancing with Stars",
+            "file_path": "/audio/15.wav"
+        },
+        "16": {
+            "artist_name": "Silver Symphony",
+            "track_name": "Tomorrow Rivers",
+            "file_path": "/audio/16.wav"
+        },
+        "17": {
+            "artist_name": "Lunar Vibrant",
+            "track_name": "of Summer's",
+            "file_path": "/audio/17.wav"
+        },
+        "18": {
+            "artist_name": "Stellar Drift",
+            "track_name": "Journey Whispers",
+            "file_path": "/audio/18.wav"
+        },
+        "19": {
+            "artist_name": "Velvet Harmonic",
+            "track_name": "Winter's Embrace",
+            "file_path": "/audio/19.wav"
+        },
+        "20": {
+            "artist_name": "Dusk Borealis",
+            "track_name": "Dreams Dancing",
+            "file_path": "/audio/20.wav"
+        },
+        "22": {
+            "artist_name": "Oceanic Melody",
+            "track_name": "Echo End",
+            "file_path": "/audio/22.wav"
+        },
+        "25": {
+            "artist_name": "Rising Phoenix",
+            "track_name": "Sunsets Embrace",
+            "file_path": "/audio/25.wav"
+        },
+        "26": {
+            "artist_name": "of Moonlight",
+            "track_name": "Whispers of the Wind",
+            "file_path": "/audio/26.wav"
+        },
+        "28": {
+            "artist_name": "of Vibes",
+            "track_name": "Mystic the",
+            "file_path": "/audio/28.wav"
+        },
+        "29": {
+            "artist_name": "Golden Sky",
+            "track_name": "from the",
+            "file_path": "/audio/29.wav"
+        },
+        "31": {
+            "artist_name": "Neon Twilight",
+            "track_name": "Dreams of Tomorrow",
+            "file_path": "/audio/31.wav"
+        },
+        "32": {
+            "artist_name": "Stellar Crimson",
+            "track_name": "Silence Autumn",
+            "file_path": "/audio/32.wav"
+        },
+        "33": {
+            "artist_name": "Serenade Silver",
+            "track_name": "Visions Journey",
+            "file_path": "/audio/33.wav"
+        },
+        "34": {
+            "artist_name": "The Vibes",
+            "track_name": "Memories in",
+            "file_path": "/audio/34.wav"
+        },
+        "35": {
+            "artist_name": "Echoes Mystic",
+            "track_name": "Rivers Fading",
+            "file_path": "/audio/35.wav"
+        },
+        "37": {
+            "artist_name": "Phoenix Velvet",
+            "track_name": "from Rhythms",
+            "file_path": "/audio/37.wav"
+        },
+        "39": {
+            "artist_name": "The Rising",
+            "track_name": "Summer's Seas",
+            "file_path": "/audio/39.wav"
+        },
+        "40": {
+            "artist_name": "Harmonic Aurora",
+            "track_name": "with Tomorrow",
+            "file_path": "/audio/40.wav"
+        },
+        "43": {
+            "artist_name": "Celestial Nights",
+            "track_name": "the of",
+            "file_path": "/audio/43.wav"
+        },
+        "44": {
+            "artist_name": "Velvet Borealis",
+            "track_name": "Visions Flames",
+            "file_path": "/audio/44.wav"
+        },
+        "47": {
+            "artist_name": "Echoes Suns",
+            "track_name": "with End",
+            "file_path": "/audio/47.wav"
+        },
+        "48": {
+            "artist_name": "Phoenix Dreams",
+            "track_name": "Autumn Mystic",
+            "file_path": "/audio/48.wav"
+        },
+        "53": {
+            "artist_name": "Sapphire Harmonic",
+            "track_name": "Rains Shadows",
+            "file_path": "/audio/53.wav"
+        },
+        "56": {
+            "artist_name": "Echoes Harmonic",
+            "track_name": "Fading Memories",
+            "file_path": "/audio/56.wav"
+        },
+        "60": {
+            "artist_name": "Dusk Dreams",
+            "track_name": "Flames the",
+            "file_path": "/audio/60.wav"
+        },
+        "63": {
+            "artist_name": "Waves Eternal",
+            "track_name": "Summer's Eternal",
+            "file_path": "/audio/63.wav"
+        },
+        "67": {
+            "artist_name": "Golden Velvet",
+            "track_name": "Flames Silence",
+            "file_path": "/audio/67.wav"
+        },
+        "68": {
+            "artist_name": "Strings Echoes",
+            "track_name": "Rivers of Light",
+            "file_path": "/audio/68.wav"
+        },
+        "69": {
+            "artist_name": "Reverie Shadows",
+            "track_name": "Celestial Journey",
+            "file_path": "/audio/69.wav"
+        },
+        "72": {
+            "artist_name": "Rising Borealis",
+            "track_name": "Journey Through Time",
+            "file_path": "/audio/72.wav"
+        },
+        "73": {
+            "artist_name": "Rising Oceanic",
+            "track_name": "Eternal Flames",
+            "file_path": "/audio/73.wav"
+        },
+        "74": {
+            "artist_name": "Harmonic Waves",
+            "track_name": "the Mystic",
+            "file_path": "/audio/74.wav"
+        },
+        "78": {
+            "artist_name": "Dreams of",
+            "track_name": "Autumn Rivers",
+            "file_path": "/audio/78.wav"
+        },
+        "79": {
+            "artist_name": "Silver Echoes",
+            "track_name": "with Whispers",
+            "file_path": "/audio/79.wav"
+        },
+        "80": {
+            "artist_name": "Harmonic Phoenix",
+            "track_name": "Whispers Memories",
+            "file_path": "/audio/80.wav"
+        },
+        "81": {
+            "artist_name": "Silver Vibrant",
+            "track_name": "of Time",
+            "file_path": "/audio/81.wav"
+        },
+        "82": {
+            "artist_name": "Vibes Echoes",
+            "track_name": "Autumn the",
+            "file_path": "/audio/82.wav"
+        },
+        "83": {
+            "artist_name": "Dreamscape Aurora",
+            "track_name": "Journey in",
+            "file_path": "/audio/83.wav"
+        },
+        "87": {
+            "artist_name": "Harmonic Twilight",
+            "track_name": "from Journey",
+            "file_path": "/audio/87.wav"
+        },
+        "89": {
+            "artist_name": "Dreams Sky",
+            "track_name": "Summer's the",
+            "file_path": "/audio/89.wav"
+        },
+        "92": {
+            "artist_name": "Twilight Serenade",
+            "track_name": "of Twilight",
+            "file_path": "/audio/92.wav"
+        },
+        "93": {
+            "artist_name": "Silver Harmonic",
+            "track_name": "from Whispers",
+            "file_path": "/audio/93.wav"
+        },
+        "94": {
+            "artist_name": "Vibes Harmonic",
+            "track_name": "Whispers Seas",
+            "file_path": "/audio/94.wav"
+        },
+        "96": {
+            "artist_name": "Moonlight Aurora",
+            "track_name": "Autumn in",
+            "file_path": "/audio/96.wav"
+        },
+        "99": {
+            "artist_name": "Oceanic Rising",
+            "track_name": "Memories Journey",
+            "file_path": "/audio/99.wav"
+        }
+    }
+}
